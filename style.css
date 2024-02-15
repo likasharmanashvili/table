@@ -1,0 +1,127 @@
+body{
+    font-family: Montserrat;
+}
+.status{
+ color: #1F9254;
+ background-color: #EBF9F1;
+ border-radius: 20px;
+ width: 83px;
+ height: 31px;
+ text-align: center; 
+margin-left: 130px;
+
+}
+#arrow {
+    color: grey
+}
+
+input{
+  height: 32px;
+  width: 220px;
+  border-radius: 10px;
+  border: 1px solid grey;
+  margin-top: 4px;
+}
+.headerchild{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.button10{
+border: none;
+border-radius: 10px;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 2px;
+height: 40px;
+width: 50px;
+color: grey;
+}
+.headerchild2 >button{
+    margin-top: 30px;
+    background-color: #624DE3;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 140px;
+    margin-left: 50px;
+}
+.header{
+    display: flex;
+    gap: 800px;
+}
+.headerchild{
+    display: flex;
+    gap: 30px;
+}
+.table{
+    text-align: center;
+    width: 100%;
+    margin-top: 40px;
+ 
+}
+
+.title{
+    
+    width: 400px;
+    gap: 30px;
+   font-weight: 400;
+    text-align: left;
+    
+}
+.id{
+    font-weight: 400;
+}
+.category{
+    font-weight: 400;
+}
+.price{
+    font-weight: 400;
+}
+.tr{
+    background-color: #1F9254;
+}
+.rate
+{
+    font-weight: 400;
+}
+.count{
+    font-weight: 400;
+}
+
+table{
+    gap: 30px;
+}
+.buttons{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+
+}
+.btn1 {
+    background-color: #624DE3;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 35px;
+    height: 35px;
+}
+.btn2 {
+    background-color: #E0E0E0;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    width: 35px;
+    height: 35px;
+}
+.btn3 {
+    background-color: #E0E0E0;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    width: 35px;
+    height: 35px;
+}
